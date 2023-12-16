@@ -1,6 +1,6 @@
 
 
-<h1> Starbucks-Xmas-Promo </h1>
+<h1> Bootstrap Project </h1>
 
 This website is intended to make a simple and useful website using only the Bootstrap library.
 
